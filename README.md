@@ -10,7 +10,7 @@ Este script em Python permite obter informações sobre o fornecedor associado a
 Instale as dependências necessárias:
 pip install -r requirements.txt
 
-Execute o script: python main.py
+Execute o script: python mac_vendor_lookup.py
 
 Substitua a variável mac_address no script pelo endereço MAC que você deseja consultar. Execute o script, e ele exibirá as informações do fornecedor associado a esse endereço MAC.
 
