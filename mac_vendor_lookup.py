@@ -1,6 +1,6 @@
 import requests
 
-mac_address = "	00:00:00:00:00:00"
+mac_address = "	00:00:00:00:00:00" #Substitua pelo MAC a ser pesquisado.
 url = f"https://api.macvendors.com/{mac_address}"
 
 try:
